@@ -1,7 +1,7 @@
 local Calculator = {
 	name = "Calculator",
 	desc = "A simple calculator.",
-	version = "1.1",
+	version = "1.2",
 	author = "Mogray"
 }
 
